@@ -5,3 +5,5 @@ Just a simple RecyclerView demo app written in Kotlin to show how and where some
 In this example I'm deriving from SimpleItemAnimator and mostly copying DefaultItemAnimator.
 
 Attached is also a gif showing how setting sDefaultInterpolator with OvershootInterpolator gets the desired effect.
+
+![https://github.com/kaeawc/custom-item-animator/blob/master/art/demo.gif?raw=true](https://github.com/kaeawc/custom-item-animator/blob/master/art/demo.gif?raw=true)
